@@ -6,7 +6,7 @@ permalink: /about/
 
 This is the another page for testing.
 
-Learning about Jekyll
+Learning about Jekyll and this is a change from git.
 
 Testing how to add a link
 
